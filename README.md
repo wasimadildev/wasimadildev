@@ -70,8 +70,9 @@ This repository is a collection of my journey, skills, and experiences in **fron
 
 ## 📫 Connect With Me  
 - 📧 Email: wasimadilcode@gmail.com  
-- 💼 LinkedIn: [Your LinkedIn Link]  
-- 🖥️ GitHub: [Your GitHub Profile]  
+- 💼 LinkedIn: [Waseem Adil]( https://linkedIn.com/wasimadildev )
+- 🖥️ GitHub: [Waseem Adil]( https://github.com/wasimadildev )
+- 🌎 Portfoilo: [Waseem Adil Dev](https://waseemadil.dev)
 
 ---
 
