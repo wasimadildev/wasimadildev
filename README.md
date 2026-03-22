@@ -1,79 +1,79 @@
-# 🚀 Waseem Adil
+# Waseem Adil
 
-👋 Hi! I'm **Waseem Adil**, a passionate **MERN Stack Developer** and learner who loves building full-stack applications and exploring new technologies.  
-This repository is a collection of my journey, skills, and experiences in **frontend**, **backend**, and beyond.  
+Full-stack developer focused on building practical web products with modern JavaScript and TypeScript tooling. I work across the React and Next.js frontend stack, Node.js backends, relational and document databases, and the engineering work needed to ship reliable apps.
 
----
+## About
 
-## 📌 About Me  
-- 🌍 From Pakistan 🇵🇰  
-- 💻 MERN Stack Developer (MongoDB, Express.js, React.js, Node.js)  
-- 🎨 Skilled in Frontend Development (React.js, Next.js, Tailwind CSS, TypeScript, JavaScript, HTML, CSS)  
-- ⚙️ Backend Development (Node.js, Express.js, Prisma, PostgreSQL, MongoDB, Firebase, REST APIs)  
-- 🏗️ Currently working on **Hospital Management System (FYP)** with chatbot integration  
-- 📚 Exploring **System Design, QA, Full-Stack Apps, and Real-World Problem-Solving Projects**  
+- Based in Pakistan
+- Building with React, Next.js, Node.js, Express, TypeScript, and Tailwind CSS
+- Comfortable with PostgreSQL, MongoDB, MySQL, Prisma, Firebase, and REST APIs
+- Interested in system design, product-focused engineering, and scalable full-stack apps
+- Currently working on a hospital management system with chatbot integration
 
----
+## Stack
 
-## 🛠️ Tech Stack & Skills  
+**Frontend**
 
-### 🌐 Frontend  
-- React.js, Next.js, Redux Toolkit, React Query  
-- Tailwind CSS, Material UI, Shadcn UI  
-- TypeScript, JavaScript, HTML5, CSS3  
+- React.js
+- Next.js
+- TypeScript
+- JavaScript
+- Tailwind CSS
+- Redux Toolkit
+- React Query
+- Material UI
+- shadcn/ui
 
-### ⚙️ Backend  
-- Node.js, Express.js  
-- REST APIs, Authentication & Authorization (JWT, OAuth, OTP, Social Login)  
-- Prisma, Socket.io (real-time apps)  
+**Backend**
 
-### 🗄️ Databases  
-- MongoDB  
-- PostgreSQL  
-- MySQL  
+- Node.js
+- Express.js
+- REST APIs
+- Authentication and authorization
+- JWT, OAuth, OTP, social login
+- Socket.IO
 
-### 🛠️ Tools & Others  
-- Git & GitHub  
-- Figma to Code (React/React Native)  
-- Docker (basics), Firebase, Sanity CMS  
-- Testing: Jest, Chai, Mocha  
+**Database**
 
----
+- PostgreSQL
+- MongoDB
+- MySQL
+- Prisma ORM
 
-## 📚 What I Have Learned  
-✅ Problem Solving (C++, Java OOP, Data Structures, Algorithms, Database Systems)  
-✅ Frontend: React.js, Next.js, Tailwind CSS  
-✅ Backend: Express.js, Node.js, Authentication, Prisma  
-✅ Databases: MongoDB, PostgreSQL, MySQL  
-✅ Other: Linear Algebra, Boolean Algebra, QA Engineering basics, System Design  
+**Tools**
 
----
+- Git and GitHub
+- Firebase
+- Sanity CMS
+- Docker basics
+- Jest
+- Mocha
+- Chai
 
-## 🚧 Projects I've Worked On  
-- 🏥 **Hospital Management System (FYP)** – Full-stack project with chatbot & analytics  
-- 💬 **Real-Time Chat App** – Messaging, media sharing, JWT auth, WebSockets  
-- 🛒 **E-commerce MERN App** – User, Product, Order, Cart, Review models  
-- 📚 **Online Bookstore** – React.js frontend  
-- 🍔 **Food Delivery App** – MERN stack  
-- 👕 **Clothing Store Website** – MERN stack with authentication  
-- 📝 **Blog Backend** – Node.js + Express.js  
+## Projects
 
----
+- **Hospital Management System**: full-stack FYP project with chatbot and analytics features
+- **Real-Time Chat App**: messaging, media sharing, JWT authentication, and WebSockets
+- **E-commerce App**: product, cart, order, review, and user flows in a MERN architecture
+- **Online Bookstore**: frontend-focused React project
+- **Food Delivery App**: full-stack ordering platform
+- **Clothing Store Website**: MERN application with authentication
+- **Blog Backend**: backend API built with Node.js and Express
 
-## 🎯 Current Goals  
-- Build **unique Node.js/Next.js projects** solving real-world problems  
-- Master **System Design & QA**  
-- Learn **DevOps basics (Docker, CI/CD)**  
-- Share my journey through GitHub and open-source  
+## Current Focus
 
----
+- Building stronger Next.js and Node.js projects around real product problems
+- Improving system design and backend architecture skills
+- Learning more about DevOps workflows, CI/CD, and deployment
+- Sharpening testing and software quality practices
 
-## 📫 Connect With Me  
-- 📧 Email: wasimadilcode@gmail.com  
-- 💼 LinkedIn: [Waseem Adil]( https://linkedIn.com/wasimadildev )
-- 🖥️ GitHub: [Waseem Adil]( https://github.com/wasimadildev )
-- 🌎 Portfoilo: [Waseem Adil Dev](https://waseemadil.dev)
+## Connect
 
----
+- Email: [wasimadilcode@gmail.com](mailto:wasimadilcode@gmail.com)
+- LinkedIn: [linkedin.com/in/wasimadildev](https://linkedin.com/in/wasimadildev)
+- GitHub: [github.com/wasimadildev](https://github.com/wasimadildev)
+- Portfolio: [waseemadil.dev](https://waseemadil.dev)
 
-⭐ **This repo is my personal learning hub where I record everything I learn and build.**  
+## Notes
+
+This repository is used as my GitHub profile README. It reflects what I am building, what I am learning, and the direction I am taking as a developer.
